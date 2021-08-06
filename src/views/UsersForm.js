@@ -1,7 +1,7 @@
 import React from 'react';
 import { Text } from 'react-native';
 
-function UsersForm() {
+function UsersForm(props) {
 	return <Text>Use Form</Text>;
 }
 
